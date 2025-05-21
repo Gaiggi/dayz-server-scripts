@@ -4,7 +4,8 @@ Thers is also a Systemd Service included
 
 Installation: 
 Just add the start.sh and update.sh to you DayZ-Server root.
-Update the Mods included.
+Change "user" to your username
+Update the Mods included. Currently there are Dabs-Framework,CF and VPP-AdminTools included
 
 Copy the .service file to /etc/systemd/system
 
